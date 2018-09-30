@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "9D1169BCC2CD7BA901FBA54C"
+               BuildableName = "Conway&apos;s Game of Life.app"
+               BlueprintName = "Conway&apos;s Game of Life"
+               ReferencedContainer = "container:Conway&apos;s Game of Life.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "9D1169BCC2CD7BA901FBA54C"
+            BuildableName = "Conway&apos;s Game of Life.app"
+            BlueprintName = "Conway&apos;s Game of Life"
+            ReferencedContainer = "container:Conway&apos;s Game of Life.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
